@@ -7,8 +7,9 @@ A beautiful, interactive dashboard that aggregates and visualizes issues found b
 <p align="center">
   <img src="screenshots/dashboard-preview.png" alt="BugBot Dashboard Preview" width="800">
 </p>
-
-> 📸 **Note**: To add a preview image, take a screenshot of the generated dashboard and save it as `screenshots/dashboard-preview.png`
+<p align="center">
+  <img src="screenshots/dashboard-preview2.png" alt="BugBot Dashboard Preview" width="800">
+</p>
 
 ## ✨ Features
 
