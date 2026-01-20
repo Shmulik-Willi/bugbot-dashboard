@@ -1,0 +1,32 @@
+# Configuration (contains secrets)
+config.env
+
+# Data files (generated)
+data/bugbot_results.csv
+data/bugbot_detailed.jsonl
+data/*.log
+data/fetch_checkpoint.txt
+
+# Keep sample data
+!data/sample_bugbot_results.csv
+
+# Reports (generated)
+reports/*.html
+reports/*.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
